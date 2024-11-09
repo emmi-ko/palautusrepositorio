@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Muutos
+=======
+Muutos testausta
+>>>>>>> 7ceb68b (muutos)
 
